@@ -1,0 +1,2911 @@
+h1 {
+    color: white;
+    left: 200px;
+     
+}
+
+
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+
+.item{
+    margin-top: 50px;
+    
+}
+.text{
+    margin-left:550px
+}
+.Chart{
+    margin-left: 500px;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.a1{
+    position: relative;  
+}
+.Hydrogen{
+   
+    position:absolute;
+}
+
+.Hydrogen p{
+   
+   margin-left:330px;
+   margin-top:-23.7px;
+   
+   opacity:0;
+   font-size:25px;
+   color:rgb(19, 19, 69);
+   width:500px;
+   height:150px;
+}
+.Hydrogen:hover p{
+    opacity:1;
+  }
+.Hydrogen:hover img{
+    opacity:0.23;
+  } 
+.Helium{
+    position: absolute;
+    left:1258px;
+}
+.Helium p{
+   
+    margin-left:-920px;
+    margin-top:-23.7px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Helium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Helium:hover img{
+     opacity:0.23;
+   }
+.Lithium{
+    position: absolute;
+    top:-73px;
+}
+.Lithium p{
+   
+        margin-left:330px;
+        margin-top:-95.7px;
+        
+        opacity:0;
+        font-size:25px;
+        color:rgb(19, 19, 69);
+        width:500px;
+        height:150px;
+}
+ .Lithium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Lithium:hover img{
+     opacity:0.23;
+   }  
+   .Beryllium{
+    position: absolute;
+    top:-73px;
+    left:74px
+}
+.Beryllium p{
+    margin-left:260px;
+        margin-top:-95.7px;
+        
+        opacity:0;
+        font-size:25px;
+        color:rgb(19, 19, 69);
+        width:500px;
+        height:150px;
+ }
+ .Beryllium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Beryllium:hover img{
+     opacity:0.23;
+   }
+   .Boron{
+    position: absolute;
+    left:-440px;
+    top: -73px;
+}
+.Boron p{
+    margin-left:-550px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Boron:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Boron:hover img{
+     opacity:0.23;
+   }
+   .Carbon{
+    position: absolute;
+    left:-366px;
+    top: -73px;
+}
+.Carbon p{
+    margin-left:-624px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Carbon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Carbon:hover img{
+     opacity:0.23;
+   } 
+   .Nitrogen{
+    position: absolute;
+    left:-292px;
+    top: -73px;
+}
+.Nitrogen p{
+    margin-left:-698px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Nitrogen:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Nitrogen:hover img{
+     opacity:0.23;
+   }
+   .Oxygen{
+    position: absolute;
+    left:-218px;
+    top: -73px;
+}
+.Oxygen p{
+    margin-left:-772px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Oxygen:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Oxygen:hover img{
+     opacity:0.23;
+   }
+   .Fluorine{
+    position: absolute;
+    left:-144px;
+    top: -73px;
+}
+.Fluorine p{
+    margin-left:-846px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Fluorine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Fluorine:hover img{
+     opacity:0.23;
+   } 
+   .Neon{
+    position: absolute;
+    left:-70px;
+    top: -73px;
+}
+.Neon p{
+    margin-left:-920px;
+    margin-top:-97px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Neon:hover p{
+     opacity:1;
+   }
+ .Neon:hover img{
+     opacity:0.23;
+   }                  
+.Sodium{
+    position: absolute;
+}
+.Sodium p{
+    margin-left:330px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Sodium:hover p{
+     opacity:1;
+   }
+ .Sodium:hover img{
+     opacity:0.23;
+   }  
+   .Magnesium{
+    position: absolute;
+    left:74px
+}
+.Magnesium p{
+    margin-left:256px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Magnesium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Magnesium:hover img{
+     opacity:0.23;
+   }    
+   .Argon{
+    position: absolute;
+    top: 0px;
+    left: -70px;
+}
+.Argon p{
+    margin-left:-920px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Argon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Argon:hover img{
+     opacity:0.23;
+   } 
+   .Chlorine{
+    position: absolute;
+    top: 0px;
+    left: -144px;
+}
+.Chlorine p{
+    margin-left:-846px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Chlorine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Chlorine:hover img{
+     opacity:0.23;
+   }
+.Sulfur{
+    position: absolute;
+    top: 0px;
+    left: -218px;
+}
+.Sulfur p{
+    margin-left:-772px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Sulfur:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Sulfur:hover img{
+     opacity:0.23;
+   }
+   .Phosphorus{
+    position: absolute;
+    top: 0px;
+    left: -292px;
+}
+.Phosphorus p{
+    margin-left:-698px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Phosphorus:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Phosphorus:hover img{
+     opacity:0.23;
+   }    
+   .Silicon{
+    position: absolute;
+    top: 0px;
+    left: -366px;
+}
+.Silicon p{
+    margin-left:-624px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Silicon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Silicon:hover img{
+     opacity:0.23;
+   }
+   .Aluminum{
+    position: absolute;
+    top: 0px;
+    left: -440px;
+}
+.Aluminum p{
+    margin-left:-550px;
+    margin-top:-170px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Aluminum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Aluminum:hover img{
+     opacity:0.23;
+   } 
+   .Potassium{
+    position: absolute;
+    margin-top: -73px;
+}
+.Potassium p{
+    margin-left:333px;
+    margin-top:-243px;
+    
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Potassium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Potassium:hover img{
+     opacity:0.23;
+   }
+  
+   .Krypton{
+    position: absolute;
+    top: 325px;
+    left:1267px;
+}
+.Krypton p{
+  margin-top:-242px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Krypton:hover p{
+     opacity:1;
+   }
+ .Krypton:hover img{
+     opacity:0.23;
+   } 
+   .Bromine{
+    position: absolute;
+    top: 325px;
+    left:1193px;
+}
+.Bromine p{
+  margin-top:-242px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Bromine:hover p{
+     opacity:1;
+   }
+ .Bromine:hover img{
+     opacity:0.23;
+   }
+   .Selenium{
+    position: absolute;
+    top: 325px;
+    left:1119px;
+}
+.Selenium p{
+  margin-top:-242px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Selenium:hover p{
+     opacity:1;
+   }
+ .Selenium:hover img{
+     opacity:0.23;
+   }
+   .Arsenic{
+    position: absolute;
+    top: 325px;
+    left:1045px;
+}
+.Arsenic p{
+  margin-top:-242px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Arsenic:hover p{
+     opacity:1;
+   }
+ .Arsenic:hover img{
+     opacity:0.23;
+   }
+   .Germanium{
+    position: absolute;
+    top: 325px;
+    left:971px;
+}
+.Germanium p{
+  margin-top:-242px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Germanium:hover p{
+     opacity:1;
+   }
+ .Germanium:hover img{
+     opacity:0.23;
+   }
+   .Gallium{
+    position: absolute;
+    top: 325px;
+    left:897px;
+}
+.Gallium p{
+  margin-top:-242px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Gallium:hover p{
+     opacity:1;
+   }
+ .Gallium:hover img{
+     opacity:0.23;
+   }
+   .Copper{
+    position: absolute;
+    top: 325px;
+    left:749px;
+}
+.Copper p{
+  margin-top:-242px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Copper:hover p{
+     opacity:1;
+   }
+ .Copper:hover img{
+     opacity:0.23;
+   }
+   .Zinc{
+    position: absolute;
+    top: 325px;
+    left:823px;
+}
+.Zinc p{
+  margin-top:-242px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Zinc:hover p{
+     opacity:1;
+   }
+ .Zinc:hover img{
+     opacity:0.23;
+   }
+   .Nickel{
+    position: absolute;
+    top: 325px;
+    left:675px;
+}
+.Nickel p{
+  margin-top:-242px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Nickel:hover p{
+     opacity:1;
+   }
+ .Nickel:hover img{
+     opacity:0.23;
+   }
+   .Cobalt{
+    position: absolute;
+    top: 325px;
+    left:601px;
+}
+.Cobalt p{
+  margin-top:-242px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Cobalt:hover p{
+     opacity:1;
+   }
+ .Cobalt:hover img{
+     opacity:0.23;
+   } 
+   .Iron{
+    position: absolute;
+    top: 325px;
+    left:527px;
+}
+.Iron p{
+  margin-top:-242px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Iron:hover p{
+     opacity:1;
+   }
+ .Iron:hover img{
+     opacity:0.23;
+   } 
+   .Manganese{
+    position: absolute;
+    top: 325px;
+    left:453px;
+}
+.Manganese p{
+  margin-top:-242px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Manganese:hover p{
+     opacity:1;
+   }
+ .Manganese:hover img{
+     opacity:0.23;
+   }
+   .Chromium{
+    position: absolute;
+    top: 325px;
+    left:379px;
+}
+.Chromium p{
+  margin-top:-242px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Chromium:hover p{
+     opacity:1;
+   }
+ .Chromium:hover img{
+     opacity:0.23;
+   }
+   .Vanadium{
+    position: absolute;
+    top: 325px;
+    left:305px;
+}
+.Vanadium p{
+  margin-top:-242px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Vanadium:hover p{
+     opacity:1;
+   }
+ .Vanadium:hover img{
+     opacity:0.23;
+   }
+   .Titanium{
+    position: absolute;
+    top: 325px;
+    left:231px;
+}
+.Titanium p{
+  margin-top:-242px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Titanium:hover p{
+     opacity:1;
+   }
+ .Titanium:hover img{
+     opacity:0.23;
+   }
+   .Scandium{
+    position: absolute;
+    top: 325px;
+    left:157px;
+}
+.Scandium p{
+  margin-top:-242px;
+  margin-left:185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Scandium:hover p{
+     opacity:1;
+   }
+ .Scandium:hover img{
+     opacity:0.23;
+   }
+   .Calcium{
+    position: absolute;
+    left:83px;
+    margin-top:-73px;
+}
+.Calcium p{
+    margin-top:-243px;
+    margin-left:259px;
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Calcium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Calcium:hover img{
+     opacity:0.23;
+   }
+   .Xenon{
+    position: absolute;
+    left:1267px;
+}
+.Xenon p{
+  margin-top:-316px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Xenon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Xenon:hover img{
+     opacity:0.23;
+   } 
+   .Iodine{
+    position: absolute;
+    left:1193px;
+}
+.Iodine p{
+  margin-top:-316px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Iodine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Iodine:hover img{
+     opacity:0.23;
+   }   
+   .Tellurium{
+    position: absolute;
+    left:1119px;
+}
+.Tellurium p{
+  margin-top:-316px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tellurium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tellurium:hover img{
+     opacity:0.23;
+   } 
+   .Antimony{
+    position: absolute;
+    left:1045px;
+}
+.Antimony p{
+  margin-top:-316px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Antimony:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Antimony:hover img{
+     opacity:0.23;
+   }
+   .Tin{
+    position: absolute;
+    left:971px;
+}
+.Tin p{
+  margin-top:-316px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tin:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tin:hover img{
+     opacity:0.23;
+   } 
+   .Indium{
+    position: absolute;
+    left:897px;
+}
+.Indium p{
+  margin-top:-316px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Indium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Indium:hover img{
+     opacity:0.23;
+   } 
+   .Cadmium{
+    position: absolute;
+    left:823px;
+}
+.Cadmium p{
+  margin-top:-316px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Cadmium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Cadmium:hover img{
+     opacity:0.23;
+   }  
+   .Silver{
+    position: absolute;
+    left:749px;
+}
+.Silver p{
+  margin-top:-316px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Silver:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Silver:hover img{
+     opacity:0.23;
+   } 
+   .Palladium{
+    position: absolute;
+    left:675px;
+}
+.Palladium p{
+  margin-top:-316px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Palladium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Palladium:hover img{
+     opacity:0.23;
+   } 
+   
+   .Rhodium{
+    position: absolute;
+    left:601px;
+}
+.Rhodium p{
+  margin-top:-316px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rhodium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rhodium:hover img{
+     opacity:0.23;
+   } 
+   .Ruthenium{
+    position: absolute;
+    left:527px;
+}
+.Ruthenium p{
+  margin-top:-316px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Ruthenium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Ruthenium:hover img{
+     opacity:0.23;
+   } 
+   .Technetium{
+    position: absolute;
+    left:453px;
+}
+.Technetium p{
+  margin-top:-316px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Technetium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Technetium:hover img{
+     opacity:0.23;
+   }  
+    .Molybdenum{
+    position: absolute;
+    left:379px;
+}
+.Molybdenum p{
+  margin-top:-316px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Molybdenum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Molybdenum:hover img{
+     opacity:0.23;
+   }
+   .Niobium{
+    position: absolute;
+    left:305px;
+}
+.Niobium p{
+  margin-top:-316px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Niobium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Niobium:hover img{
+     opacity:0.23;
+   }
+   .Zirconium{
+    position: absolute;
+    left:231px;
+}
+.Zirconium p{
+  margin-top:-316px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Zirconium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Zirconium:hover img{
+     opacity:0.23;
+   }
+   .Yttrium{
+    position: absolute;
+    left:157px;
+}
+.Yttrium p{
+  margin-top:-316px;
+  margin-left:185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Yttrium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Yttrium:hover img{
+     opacity:0.23;
+   }
+   .Strontium{
+    position: absolute;
+    left:83px;
+}
+.Strontium p{
+  margin-top:-316px;
+  margin-left:259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Strontium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Strontium:hover img{
+     opacity:0.23;
+   }
+   .Rubidium{
+    position: absolute;
+    left:9px;
+}
+.Rubidium p{
+  margin-top:-316px;
+  margin-left:333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rubidium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rubidium:hover img{
+     opacity:0.23;
+   }
+   .Xenon{
+    position: absolute;
+    left:1267px;
+}
+.Xenon p{
+  margin-top:-316px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Xenon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Xenon:hover img{
+     opacity:0.23;
+   } 
+   .Iodine{
+    position: absolute;
+    left:1193px;
+}
+.Iodine p{
+  margin-top:-316px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Iodine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Iodine:hover img{
+     opacity:0.23;
+   }   
+   .Tellurium{
+    position: absolute;
+    left:1119px;
+}
+.Tellurium p{
+  margin-top:-316px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tellurium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tellurium:hover img{
+     opacity:0.23;
+   } 
+   .Antimony{
+    position: absolute;
+    left:1045px;
+}
+.Antimony p{
+  margin-top:-316px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Antimony:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Antimony:hover img{
+     opacity:0.23;
+   }
+   .Tin{
+    position: absolute;
+    left:971px;
+}
+.Tin p{
+  margin-top:-316px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tin:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tin:hover img{
+     opacity:0.23;
+   } 
+   .Indium{
+    position: absolute;
+    left:897px;
+}
+.Indium p{
+  margin-top:-316px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Indium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Indium:hover img{
+     opacity:0.23;
+   } 
+   .Cadmium{
+    position: absolute;
+    left:823px;
+}
+.Cadmium p{
+  margin-top:-316px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Cadmium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Cadmium:hover img{
+     opacity:0.23;
+   }  
+   .Silver{
+    position: absolute;
+    left:749px;
+}
+.Silver p{
+  margin-top:-316px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Silver:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Silver:hover img{
+     opacity:0.23;
+   } 
+   .Palladium{
+    position: absolute;
+    left:675px;
+}
+.Palladium p{
+  margin-top:-316px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Palladium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Palladium:hover img{
+     opacity:0.23;
+   } 
+   
+   .Rhodium{
+    position: absolute;
+    left:601px;
+}
+.Rhodium p{
+  margin-top:-316px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rhodium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rhodium:hover img{
+     opacity:0.23;
+   } 
+   .Ruthenium{
+    position: absolute;
+    left:527px;
+}
+.Ruthenium p{
+  margin-top:-316px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Ruthenium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Ruthenium:hover img{
+     opacity:0.23;
+   } 
+   .Technetium{
+    position: absolute;
+    left:453px;
+}
+.Technetium p{
+  margin-top:-316px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Technetium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Technetium:hover img{
+     opacity:0.23;
+   }  
+    .Molybdenum{
+    position: absolute;
+    left:379px;
+}
+.Molybdenum p{
+  margin-top:-316px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Molybdenum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Molybdenum:hover img{
+     opacity:0.23;
+   }
+   .Niobium{
+    position: absolute;
+    left:305px;
+}
+.Niobium p{
+  margin-top:-316px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Niobium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Niobium:hover img{
+     opacity:0.23;
+   }
+   .Zirconium{
+    position: absolute;
+    left:231px;
+}
+.Zirconium p{
+  margin-top:-316px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Zirconium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Zirconium:hover img{
+     opacity:0.23;
+   }
+   .Yttrium{
+    position: absolute;
+    left:157px;
+}
+.Yttrium p{
+  margin-top:-316px;
+  margin-left:185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Yttrium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Yttrium:hover img{
+     opacity:0.23;
+   }
+   .Strontium{
+    position: absolute;
+    left:83px;
+}
+.Strontium p{
+  margin-top:-316px;
+  margin-left:259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Strontium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Strontium:hover img{
+     opacity:0.23;
+   }
+   .Rubidium{
+    position: absolute;
+    left:9px;
+}
+.Rubidium p{
+  margin-top:-316px;
+  margin-left:333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rubidium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rubidium:hover img{
+     opacity:0.23;
+   }          
+   .Radon{
+    position: absolute;
+    left:1267px;
+}
+.Radon p{
+  margin-top:-390px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Radon:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Radon:hover img{
+     opacity:0.23;
+   } 
+   .Astatine{
+    position: absolute;
+    left:1193px;
+}
+.Astatine p{
+  margin-top:-390px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Astatine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Astatine:hover img{
+     opacity:0.23;
+   }   
+   .Polonium{
+    position: absolute;
+    left:1119px;
+}
+.Polonium p{
+  margin-top:-390px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Polonium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Polonium:hover img{
+     opacity:0.23;
+   } 
+   .Bismuth{
+    position: absolute;
+    left:1045px;
+}
+.Bismuth p{
+  margin-top:-390px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Bismuth:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Bismuth:hover img{
+     opacity:0.23;
+   }
+   .Lead{
+    position: absolute;
+    left:971px;
+}
+.Lead p{
+  margin-top:-390px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Lead:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Lead:hover img{
+     opacity:0.23;
+   } 
+   .Thalium{
+    position: absolute;
+    left:897px;
+}
+.Thalium p{
+  margin-top:-390px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Thalium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Thalium:hover img{
+     opacity:0.23;
+   } 
+   .Mercury{
+    position: absolute;
+    left:823px;
+}
+.Mercury p{
+  margin-top:-390px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Mercury:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Mercury:hover img{
+     opacity:0.23;
+   }  
+   .Gold{
+    position: absolute;
+    left:749px;
+}
+.Gold p{
+  margin-top:-390px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Gold:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Gold:hover img{
+     opacity:0.23;
+   } 
+   .Platinum{
+    position: absolute;
+    left:675px;
+}
+.Platinum p{
+  margin-top:-390px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Platinum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Platinum:hover img{
+     opacity:0.23;
+   } 
+   
+   .Iridium{
+    position: absolute;
+    left:601px;
+}
+.Iridium p{
+  margin-top:-390px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Iridium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Iridium:hover img{
+     opacity:0.23;
+   } 
+   .Osmium{
+    position: absolute;
+    left:527px;
+}
+.Osmium p{
+  margin-top:-390px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Osmium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Osmium:hover img{
+     opacity:0.23;
+   } 
+   .Rhenium{
+    position: absolute;
+    left:453px;
+}
+.Rhenium p{
+  margin-top:-390px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rhenium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rhenium:hover img{
+     opacity:0.23;
+   }  
+    .Tungsten{
+    position: absolute;
+    left:379px;
+}
+.Tungsten p{
+  margin-top:-390px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tungsten:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tungsten:hover img{
+     opacity:0.23;
+   }
+   .Tantalum{
+    position: absolute;
+    left:305px;
+}
+.Tantalum p{
+  margin-top:-390px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tantalum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tantalum:hover img{
+     opacity:0.23;
+   }
+   
+   .Hafnium{
+    position: absolute;
+    left:231px;
+}
+.Hafnium p{
+  margin-top:-390px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Hafnium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Hafnium:hover img{
+     opacity:0.23;
+   }
+   .Barium{
+    position: absolute;
+    left:83px;
+}
+.Barium p{
+  margin-top:-390px;
+  margin-left:259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Barium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Barium:hover img{
+     opacity:0.23;
+   }
+   .Caesium{
+    position: absolute;
+    left:9px;
+}
+.Caesium p{
+  margin-top:-390px;
+  margin-left:333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Caesium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Caesium:hover img{
+     opacity:0.23;
+   }   
+.Yttrium{
+    position: absolute;
+    left:157px;
+}
+
+.Yttrium p{
+  margin-top:-316px;
+  margin-left:185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Yttrium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Yttrium:hover img{
+     opacity:0.23;
+   }
+   .Strontium{
+    position: absolute;
+    left:83px;
+}
+.Strontium p{
+  margin-top:-316px;
+  margin-left:259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Strontium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Strontium:hover img{
+     opacity:0.23;
+   }
+   .Rubidium{
+    position: absolute;
+    left:9px;
+}
+.Rubidium p{
+  margin-top:-316px;
+  margin-left:333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rubidium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rubidium:hover img{
+     opacity:0.23;
+   } 
+   .Oganesson{
+    position: absolute;
+    left:1267px;
+}
+.Oganesson p{
+  margin-top:-464px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Oganesson:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Oganesson:hover img{
+     opacity:0.23;
+   } 
+   .Tennessine{
+    position: absolute;
+    left:1193px;
+}
+.Tennessine p{
+  margin-top:-464px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Tennessine:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Tennessine:hover img{
+     opacity:0.23;
+   }   
+   .Livermorium{
+    position: absolute;
+    left:1119px;
+}
+.Livermorium p{
+  margin-top:-464px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Livermorium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Livermorium:hover img{
+     opacity:0.23;
+   } 
+   .Moscovium{
+    position: absolute;
+    left:1045px;
+}
+.Moscovium p{
+  margin-top:-464px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Moscovium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Moscovium:hover img{
+     opacity:0.23;
+   }
+   .Flerovium{
+    position: absolute;
+    left:971px;
+}
+.Flerovium p{
+  margin-top:-464px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Flerovium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Flerovium:hover img{
+     opacity:0.23;
+   } 
+   .Nihonium{
+    position: absolute;
+    left:897px;
+}
+.Nihonium p{
+  margin-top:-464px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Nihonium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Nihonium:hover img{
+     opacity:0.23;
+   } 
+   .Copernicium{
+    position: absolute;
+    left:823px;
+}
+.Copernicium p{
+  margin-top:-464px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Copernicium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Copernicium:hover img{
+     opacity:0.23;
+   }  
+   .Roentgenium{
+    position: absolute;
+    left:749px;
+}
+.Roentgenium p{
+  margin-top:-464px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Roentgenium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Roentgenium:hover img{
+     opacity:0.23;
+   } 
+   .Darmstadtium{
+    position: absolute;
+    left:675px;
+}
+.Darmstadtium p{
+  margin-top:-464px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Darmstadtium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Darmstadtium:hover img{
+     opacity:0.23;
+   } 
+   
+   .Meitnerium{
+    position: absolute;
+    left:601px;
+}
+.Meitnerium p{
+  margin-top:-464px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Meitnerium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Meitnerium:hover img{
+     opacity:0.23;
+   } 
+   .Hassium{
+    position: absolute;
+    left:527px;
+}
+.Hassium p{
+  margin-top:-464px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Hassium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Hassium:hover img{
+     opacity:0.23;
+   } 
+   .Bohrium{
+    position: absolute;
+    left:453px;
+}
+.Bohrium p{
+  margin-top:-464px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Bohrium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Bohrium:hover img{
+     opacity:0.23;
+   }  
+    .Seaborgium{
+    position: absolute;
+    left:379px;
+}
+.Seaborgium p{
+  margin-top:-464px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Seaborgium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Seaborgium:hover img{
+     opacity:0.23;
+   }
+   .Dubnium{
+    position: absolute;
+    left:305px;
+}
+.Dubnium p{
+  margin-top:-464px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Dubnium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Dubnium:hover img{
+     opacity:0.23;
+   }
+   
+   .Rutherfordium{
+    position: absolute;
+    left:231px;
+}
+.Rutherfordium p{
+  margin-top:-464px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Rutherfordium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Rutherfordium:hover img{
+     opacity:0.23;
+   }
+   .Radium{
+    position: absolute;
+    left:83px;
+}
+.Radium p{
+  margin-top:-464px;
+  margin-left:259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Radium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Radium:hover img{
+     opacity:0.23;
+   }
+   .Francium{
+    position: absolute;
+    left:9px;
+}
+.Francium p{
+  margin-top:-464px;
+  margin-left:333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Francium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Francium:hover img{
+     opacity:0.23;
+   } 
+   .Lutetium{
+    position: absolute;
+    left:1267px;
+}
+.Lutetium p{
+  margin-top:-612px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Lutetium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Lutetium:hover img{
+     opacity:0.23;
+   } 
+   .Ytterbium{
+    position: absolute;
+    left:1193px;
+}
+.Ytterbium p{
+  margin-top:-612px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Ytterbium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Ytterbium:hover img{
+     opacity:0.23;
+   }   
+   .Thulium{
+    position: absolute;
+    left:1119px;
+}
+.Thulium p{
+  margin-top:-612px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Thulium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Thulium:hover img{
+     opacity:0.23;
+   } 
+   .Erbium{
+    position: absolute;
+    left:1045px;
+}
+.Erbium p{
+  margin-top:-612px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Erbium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Erbium:hover img{
+     opacity:0.23;
+   }
+   .Holmium{
+    position: absolute;
+    left:971px;
+}
+.Holmium p{
+  margin-top:-612px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Holmium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Holmium:hover img{
+     opacity:0.23;
+   } 
+   .Dysprosium{
+    position: absolute;
+    left:897px;
+}
+.Dysprosium p{
+  margin-top:-612px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Dysprosium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Dysprosium:hover img{
+     opacity:0.23;
+   } 
+   .Terbium{
+    position: absolute;
+    left:823px;
+}
+.Terbium p{
+  margin-top:-612px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Terbium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Terbium:hover img{
+     opacity:0.23;
+   }  
+   .Gadolinium{
+    position: absolute;
+    left:749px;
+}
+.Gadolinium p{
+  margin-top:-612px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Gadolinium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Gadolinium:hover img{
+     opacity:0.23;
+   } 
+   .Europium{
+    position: absolute;
+    left:675px;
+}
+.Europium p{
+  margin-top:-612px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Europium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Europium:hover img{
+     opacity:0.23;
+   } 
+   
+   .Samarium{
+    position: absolute;
+    left:601px;
+}
+.Samarium p{
+  margin-top:-612px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Samarium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Samarium:hover img{
+     opacity:0.23;
+   } 
+   .Promethium{
+    position: absolute;
+    left:527px;
+}
+.Promethium p{
+  margin-top:-612px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Promethium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Promethium:hover img{
+     opacity:0.23;
+   } 
+   .Neodymium{
+    position: absolute;
+    left:453px;
+}
+.Neodymium p{
+  margin-top:-612px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Neodymium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Neodymium:hover img{
+     opacity:0.23;
+   }  
+    .Praseodymium{
+    position: absolute;
+    left:379px;
+}
+.Praseodymium p{
+  margin-top:-612px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Praseodymium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Praseodymium:hover img{
+     opacity:0.23;
+   }
+   .Cerium{
+    position: absolute;
+    left:305px;
+}
+.Cerium p{
+  margin-top:-612px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Cerium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Cerium:hover img{
+     opacity:0.23;
+   }
+   
+   .Lanthanum{
+    position: absolute;
+    left:231px;
+}
+.Lanthanum p{
+  margin-top:-612px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Lanthanum:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Lanthanum:hover img{
+     opacity:0.23;
+   }
+   .Lawrencium{
+    position: absolute;
+    left:1267px;
+}
+.Lawrencium p{
+  margin-top:-686px;
+  margin-left:-925px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Lawrencium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Lawrencium:hover img{
+     opacity:0.23;
+   } 
+   .Nobelium{
+    position: absolute;
+    left:1193px;
+}
+.Nobelium p{
+  margin-top:-686px;
+  margin-left:-851px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Nobelium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Nobelium:hover img{
+     opacity:0.23;
+   }   
+   .Mendelevium{
+    position: absolute;
+    left:1119px;
+}
+.Mendelevium p{
+  margin-top:-686px;
+  margin-left:-777px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Mendelevium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Mendelevium:hover img{
+     opacity:0.23;
+   } 
+   .Fermium{
+    position: absolute;
+    left:1045px;
+}
+.Fermium p{
+  margin-top:-686px;
+  margin-left:-703px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Fermium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Fermium:hover img{
+     opacity:0.23;
+   }
+   .Einsteinium{
+    position: absolute;
+    left:971px;
+}
+.Einsteinium p{
+  margin-top:-686px;
+  margin-left:-629px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Einsteinium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Einsteinium:hover img{
+     opacity:0.23;
+   } 
+   .Californium{
+    position: absolute;
+    left:897px;
+}
+.Californium p{
+  margin-top:-686px;
+  margin-left:-555px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Californium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Californium:hover img{
+     opacity:0.23;
+   } 
+   .Berkelium{
+    position: absolute;
+    left:823px;
+}
+.Berkelium p{
+  margin-top:-686px;
+  margin-left:-481px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Berkelium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Berkelium:hover img{
+     opacity:0.23;
+   }  
+   .Curium{
+    position: absolute;
+    left:749px;
+}
+.Curium p{
+  margin-top:-686px;
+  margin-left:-407px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Curium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Curium:hover img{
+     opacity:0.23;
+   } 
+   .Americium{
+    position: absolute;
+    left:675px;
+}
+.Americium p{
+  margin-top:-686px;
+  margin-left:-333px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Americium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Americium:hover img{
+     opacity:0.23;
+   } 
+   
+   .Plutonium{
+    position: absolute;
+    left:601px;
+}
+.Plutonium p{
+  margin-top:-686px;
+  margin-left:-259px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Plutonium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Plutonium:hover img{
+     opacity:0.23;
+   } 
+   .Neptunium{
+    position: absolute;
+    left:527px;
+}
+.Neptunium p{
+  margin-top:-686px;
+  margin-left:-185px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Neptunium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Neptunium:hover img{
+     opacity:0.23;
+   } 
+   .Uranium{
+    position: absolute;
+    left:453px;
+}
+.Uranium p{
+  margin-top:-686px;
+  margin-left:-111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Uranium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Uranium:hover img{
+     opacity:0.23;
+   }  
+    .Protactinium{
+    position: absolute;
+    left:379px;
+}
+.Protactinium p{
+  margin-top:-686px;
+  margin-left:-37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Protactinium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Protactinium:hover img{
+     opacity:0.23;
+   }
+   .Thorium{
+    position: absolute;
+    left:305px;
+}
+.Thorium p{
+  margin-top:-686px;
+  margin-left:37px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Thorium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Thorium:hover img{
+     opacity:0.23;
+   }
+   
+   .Actinium{
+    position: absolute;
+    left:231px;
+}
+.Actinium p{
+  margin-top:-686px;
+  margin-left:111px; 
+    opacity:0;
+    font-size:25px;
+    color:rgb(19, 19, 69);
+    width:500px;
+    height:150px;
+ }
+ .Actinium:hover p{
+     opacity:1;
+     margin-right:800px;
+   }
+ .Actinium:hover img{
+     opacity:0.23;
+   }        
+   .a2{
+    margin-top: 73px;
+    position: relative;  
+}             
+.a2{
+    margin-top: 73px;
+    position: relative;  
+}
+.a2left{
+    position:absolute;
+}
+.a2right{
+    position:absolute;
+    left:1328px;
+}
+ 
+.a3{
+    margin-top: 146px;
+    position: relative;  
+}
+.a3left{
+    position:absolute;
+}
+.a3right{
+    position:absolute;
+    left:1328px;
+
+}
+.a4{
+    margin-top: 106px;
+}
+.a5{
+  margin-top: 292px;
+}
+.a6{
+  margin-top:366px;
+}
+.a6down{
+  margin-top:588px;
+}
+.a7{
+  margin-top:440px;
+}
+.a7down{
+  margin-top:662px;
+}
+p,h2{
+    text-align: center;
+}
